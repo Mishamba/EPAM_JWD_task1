@@ -1,6 +1,7 @@
-package com.mishamba.day1.service;
+package mishamba.day1.service;
 
 import com.mishamba.day1.exception.ProgramException;
+import com.mishamba.day1.service.FunctionService;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.*;

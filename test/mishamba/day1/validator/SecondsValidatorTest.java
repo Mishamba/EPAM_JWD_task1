@@ -1,6 +1,7 @@
-package com.mishamba.day1.validator;
+package mishamba.day1.validator;
 
 import com.mishamba.day1.service.SecondsService;
+import com.mishamba.day1.validator.SecondsValidator;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.*;

@@ -1,5 +1,6 @@
-package com.mishamba.day1.validator;
+package mishamba.day1.validator;
 
+import com.mishamba.day1.validator.DateValidator;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 

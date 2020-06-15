@@ -1,7 +1,8 @@
-package com.mishamba.day1.service;
+package mishamba.day1.service;
 
 import com.mishamba.day1.entity.coordinate.PointXY;
 import com.mishamba.day1.exception.ProgramException;
+import com.mishamba.day1.service.PointService;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.*;
